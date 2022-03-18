@@ -1,6 +1,6 @@
-package br.inatel.cdg;
+package br.inatel.cdg.exercicio1;
 
-import br.inatel.cdg.Calculadora.Calculadora;
+import br.inatel.cdg.exercicio1.Calculadora.Calculadora;
 
 public class Main {
 

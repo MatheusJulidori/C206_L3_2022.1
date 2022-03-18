@@ -1,4 +1,4 @@
-package br.inatel.cdg.Calculadora;
+package br.inatel.cdg.exercicio1.Calculadora;
 
 public class Calculadora {
 
