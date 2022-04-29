@@ -8,9 +8,9 @@ import br.inatel.cdg.carros.Sedan;
 public class Main {
 
     public static void main(String[] args) {
-        Carro c1 = new Sedan();
-        Carro c2 = new SUV();
-        Carro c3 = new Hatch();
+        Sedan c1 = new Sedan();
+        SUV c2 = new SUV();
+        Hatch c3 = new Hatch();
         Carro[] carros = new Carro[3];
 
         c1.setAno(2020);
